@@ -1,0 +1,12 @@
+body {
+    margin-left: 0;
+    margin-right: 0;
+    background: linear-gradient(deeppink, violet ,white);
+    background-repeat: no-repeat;
+}
+
+#logo-header {
+    width: 10%;
+    float: right;
+    margin-right: 50%;
+}
